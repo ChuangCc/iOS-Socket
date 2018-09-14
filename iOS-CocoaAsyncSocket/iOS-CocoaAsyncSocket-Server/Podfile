@@ -1,0 +1,7 @@
+platform :ios, '7.0'
+
+target 'iOS-CocoaAsyncSocket-Server' do
+
+pod 'CocoaAsyncSocket'
+
+end
